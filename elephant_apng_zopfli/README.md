@@ -49,5 +49,7 @@ the result image using the code below
 
 note : the animation speed information should saved correctly ( bug #2 ).
 
+the animation stops ( refreshing the page make it start again ) ( bug #3 ).
+
 ![imwriteanimation_elephant_apng_zopfli.avif](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/elephant_apng_zopfli/imwriteanimation_elephant_apng_zopfli.avif)
 
