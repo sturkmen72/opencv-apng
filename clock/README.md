@@ -45,13 +45,13 @@ the result image using the code below
 
 `imreadanimation("clock.png", animation);`
 
-`imwriteanimation("imwriteanimation_clock.avif", animation);`
+`imwriteanimation("imwriteanimation_clock.png.avif", animation);`
 
 note : the animation speed information should saved correctly ( bug #2 ).
 
 the animation stops ( refreshing the page make it start again ) ( bug #3 ).
 
-![imwriteanimation_clock.avif](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/clock/imwriteanimation_clock.avif)
+![imwriteanimation_clock.png.avif](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/clock/imwriteanimation_clock.png.avif)
 
 
 
