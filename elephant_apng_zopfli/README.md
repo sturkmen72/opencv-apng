@@ -53,3 +53,47 @@ the animation stops ( refreshing the page make it start again ) ( bug #3 ).
 
 ![imwriteanimation_elephant_apng_zopfli.avif](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/elephant_apng_zopfli/imwriteanimation_elephant_apng_zopfli.avif)
 
+
+
+the result image using the code below
+
+`Animation animation;`
+
+`imreadmulti("elephant_apng_zopfli.png", animation.frames, IMREAD_COLOR);`
+
+`imwrite("without_alpha_elephant_apng_zopfli.png.png", animation.frames);`
+
+![without_alpha_elephant_apng_zopfli.png.png](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/elephant_apng_zopfli/without_alpha_elephant_apng_zopfli.png.png)
+
+
+the result image using the code below
+
+`Animation animation;`
+
+`imreadmulti("elephant_apng_zopfli.png", animation.frames, IMREAD_GRAYSCALE);`
+
+`imwrite("gray_elephant_apng_zopfli.png.png", animation.frames);`
+
+![gray_elephant_apng_zopfli.png.png](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/elephant_apng_zopfli/gray_elephant_apng_zopfli.png.png)
+
+
+the result image using the code below
+
+`Animation animation;`
+
+`imreadmulti("elephant_apng_zopfli.png", animation.frames, IMREAD_COLOR);`
+
+`imwrite("without_alpha_elephant_apng_zopfli.png.avif", animation.frames);`
+
+![without_alpha_elephant_apng_zopfli.png.avif](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/elephant_apng_zopfli/without_alpha_elephant_apng_zopfli.png.avif)
+
+
+the result image using the code below
+
+`Animation animation;`
+
+`imreadmulti("elephant_apng_zopfli.png", animation.frames, IMREAD_GRAYSCALE);`
+
+`imwrite("gray_elephant_apng_zopfli.png.avif", animation.frames);`
+
+![gray_elephant_apng_zopfli.png.avif](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/elephant_apng_zopfli/gray_elephant_apng_zopfli.png.avif)
