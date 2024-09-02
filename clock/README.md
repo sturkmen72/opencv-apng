@@ -20,11 +20,11 @@ the result image using the code below
 
 `imreadanimation("clock.png", animation);`
 
-`imwriteanimation("imwriteanimation_clock.png", animation);`
+`imwriteanimation("imwriteanimation_clock.png.png", animation);`
 
 note : the animation speed information should saved correctly ( bug #1 ).
 
-![imwriteanimation_clock.png](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/clock/imwriteanimation_clock.png)
+![imwriteanimation_clock.png.png](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/clock/imwriteanimation_clock.png.png)
 
 
 the result image using the code below
