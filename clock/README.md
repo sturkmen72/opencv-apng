@@ -49,7 +49,7 @@ the result image using the code below
 
 note : the animation speed information should saved correctly ( bug #2 ).
 
-the animation stops ( refreshing the page make it start again ) ( bug #3 ).
+the animation don't stop ( related bug #3 ).
 
 ![imwriteanimation_clock.png.avif](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/clock/imwriteanimation_clock.png.avif)
 
