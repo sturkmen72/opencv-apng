@@ -12,7 +12,7 @@ the result image using the code below
 
 note : the animation speed information is lost when using `imwrite` to save the animation.
 
-![converted_fromelephant_apng_zopfli.png.png](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/elephant_apng_zopfli/converted_fromelephant_apng_zopfli.png.png)
+![converted_fromelephant_apng_zopfli.png](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/elephant_apng_zopfli/converted_fromelephant_apng_zopfli.png)
 
 the result image using the code below
 
@@ -37,7 +37,7 @@ the result image using the code below
 
 note : the animation speed information is lost when using `imwrite` to save the animation.
 
-![converted_fromelephant_apng_zopfli.png.avif](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/elephant_apng_zopfli/converted_fromelephant_apng_zopfli.png.avif)
+![converted_fromelephant_apng_zopfli.avif](https://raw.githubusercontent.com/sturkmen72/opencv-apng/master/elephant_apng_zopfli/converted_fromelephant_apng_zopfli.avif)
 
 the result image using the code below
 
